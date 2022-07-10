@@ -1,3 +1,4 @@
 .env
+loopia-dns.log
 loopia-dns.sh
 loopia-dns-cron

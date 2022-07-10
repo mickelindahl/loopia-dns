@@ -1,0 +1,1 @@
+0 * * * * {user} {src}/loopia-dns.sh > {src}/loopia-dns.log 2>&1
